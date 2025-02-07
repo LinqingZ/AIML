@@ -64,6 +64,31 @@ Here, I will document and share code for various machine learning and deep learn
 
 Each notebook will be labeled with the topic it covers, and I will aim to provide explanations and insights throughout.
 
+## IBM AI Engineering Professional Certificate Progress
+
+This section tracks my progress through the **IBM AI Engineering Professional Certificate** course series on Coursera. The certificate consists of **13 courses**. I'll update the checkboxes as I complete each course.
+
+### Course Progress
+
+- [ ] **Course 1**: Introduction to AI and Machine Learning
+- [ ] **Course 2**: Data Science and AI Tools
+- [ ] **Course 3**: Applied Data Science with Python
+- [ ] **Course 4**: Machine Learning with Python
+- [ ] **Course 5**: Deep Learning Fundamentals
+- [ ] **Course 6**: Neural Networks and CNNs
+- [ ] **Course 7**: AI for Everyone
+- [ ] **Course 8**: Reinforcement Learning with Python
+- [ ] **Course 9**: AI in Healthcare
+- [ ] **Course 10**: Natural Language Processing with AI
+- [ ] **Course 11**: Building AI Models with TensorFlow
+- [ ] **Course 12**: Project: AI Applications and Models
+- [ ] **Course 13**: Capstone Project
+
+### Overall Progress
+
+- **Completed**: 0 / 13 courses
+- **Progress**: 0%
+
 ## Resources
 
 In this section, I will include links to various online courses, books, research papers, and tutorials that I find useful while learning.
